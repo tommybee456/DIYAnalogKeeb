@@ -25,4 +25,7 @@ Esp32-based Analog keyboard using 6 ADS1115s, A1302 Hall Effect Sensors, and Gat
 -  6 x [A1302 Ratiometric Linear Hall Effect Sensors](https://a.co/d/9MaSS3f)
 
 # Printables Page
+[DIY Analog Keeb](https://www.printables.com/model/1044222-diy-analog-keeb)
 
+# YouTube Video
+[Analog Keyboards are too expensive...So I made my own](https://youtu.be/4BNtmCTHWtA)
