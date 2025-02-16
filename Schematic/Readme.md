@@ -1,0 +1,1 @@
+This schematic was made after the fact so it may not be 100% accurate but any changes needed for the fw to work would be minimal. Feel free to leave an issue if you have trouble following this schematic and getting the FW to work.
